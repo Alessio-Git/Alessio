@@ -6,6 +6,24 @@
 - :school: I am a student
 - :computer: My favorite languages are Java & Python
 
-<a href="https://www.html.it/" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/HTML-d94c0f?style=for-the-badge&logo=html5&logoColor=orange" /> 
-</a>
+<p align="center">
+
+  <a href="https://www.html.it/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/HTML-d94c0f?style=for-the-badge&logo=html5&logoColor=orange" /> 
+  </a>
+  
+  <a href="https://www.java.com/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  
+  <a href="https://www.python.it/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Python?style-for-the-badge&logo=python&logoColor=white" />
+  </a>
+  
+  
+  
+
+  
+</p>
+
+
