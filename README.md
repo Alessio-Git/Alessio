@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alessio-Git&show_icons=true">
+<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Alessio-Git&show_icons=true">
 
 ### Some details about me!
 
@@ -6,7 +6,7 @@
 - :school: I am a student
 - :computer: My favorite languages are Java & Python
 
-<p align="right">
+<p align="left">
 
   <a href="https://www.html.it/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/HTML-d94c0f?style=for-the-badge&logo=html5&logoColor=orange" /> 
