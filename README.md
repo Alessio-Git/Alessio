@@ -4,7 +4,7 @@
 
 - :house_with_garden: I live in Rome
 - :school: I am a student
-- :computer: My favorite languages are Java & Python
+- :computer: I'm programming in Java & Python
 
 <p align="left">
 
